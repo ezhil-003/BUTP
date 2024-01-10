@@ -1,0 +1,73 @@
+.SideBar {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  height: 100%;
+  width: 6% ;
+  background-color: #3e7cb1;
+  align-items: center;
+  justify-content: space-between;
+  left: 0px;
+  position: relative;
+}
+.bdulogo {
+  top: 30px;
+  display: flex;
+  width: 100%;
+  height: 50px;
+  justify-content: center;
+  position: relative;
+  align-items: center;
+}
+.bdulogo img {
+  height: 100%;
+}
+.logout_logo {
+  display: flex;
+  bottom: 30px !important;
+  justify-content: center;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-color: #e16979;
+  border-radius: 8px;
+  height: 50px;
+  width: 50px;
+}
+.logobtn {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 8px;
+  border-radius: 8px;
+}
+.logobtn:hover {
+  background-color: #e16979;
+  height: max-content;
+  width: max-content;
+}
+.SideBar span {
+  color: white;
+  font-size: 25px;
+  font-weight: 500;
+}
+.SideBar li {
+  width: 100%;
+  justify-content: center;
+}
+.SideBar ul {
+  width: 100%;
+}
+.component_logo {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.logout_outline {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  width:80px;
+}
