@@ -1,0 +1,109 @@
+[{
+    "batch":2019,
+    "reg":["19RGMTCS","20RGMTCS","21RGMTCS"],
+    "sem1":{
+      "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P2":[{"Subject-code":"20MTCS049"},{"Subject-name":"Java Programming"},{"Faculty-name":"Roshini"},{"credits":"5"}],
+      "P3":[{"Subject-code":"20MTCS050"},{"Subject-name":"Network Security"},{"Faculty-name":"Roshini"},{"credits":"6"}],
+      "P4":[{"Subject-code":"20MTCS051"},{"Subject-name":"DBMS"},{"Faculty-name":"Roshini"},{"credits":"7"}],
+      "P5":[{"Subject-code":"20MTCS052"},{"Subject-name":"OOAD"},{"Faculty-name":"Roshini"},{"credits":"8"}],
+      "P6":[{"Subject-code":"20MTCS053"},{"Subject-name":"Open Source Technology"},{"Faculty-name":"Roshini"},{"credits":"9"}]
+    },
+    "sem2":{
+      "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P2":[{"Subject-code":"20MTCS049"},{"Subject-name":"Java Programming"},{"Faculty-name":"Roshini"},{"credits":"5"}],
+      "P3":[{"Subject-code":"20MTCS050"},{"Subject-name":"Network Security"},{"Faculty-name":"Roshini"},{"credits":"6"}],
+      "P4":[{"Subject-code":"20MTCS051"},{"Subject-name":"DBMS"},{"Faculty-name":"Roshini"},{"credits":"7"}],
+      "P5":[{"Subject-code":"20MTCS052"},{"Subject-name":"OOAD"},{"Faculty-name":"Roshini"},{"credits":"8"}],
+      "P6":[{"Subject-code":"20MTCS053"},{"Subject-name":"Open Source Technology"},{"Faculty-name":"Roshini"},{"credits":"9"}]
+    },
+    "sem3":{
+      "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P2":[{"Subject-code":"20MTCS049"},{"Subject-name":"Java Programming"},{"Faculty-name":"Roshini"},{"credits":"5"}],
+      "P3":[{"Subject-code":"20MTCS050"},{"Subject-name":"Network Security"},{"Faculty-name":"Roshini"},{"credits":"6"}],
+      "P4":[{"Subject-code":"20MTCS051"},{"Subject-name":"DBMS"},{"Faculty-name":"Roshini"},{"credits":"7"}],
+      "P5":[{"Subject-code":"20MTCS052"},{"Subject-name":"OOAD"},{"Faculty-name":"Roshini"},{"credits":"8"}],
+      "P6":[{"Subject-code":"20MTCS053"},{"Subject-name":"Open Source Technology"},{"Faculty-name":"Roshini"},{"credits":"9"}]
+    },
+    "sem4":{
+      "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P2":[{"Subject-code":"20MTCS049"},{"Subject-name":"Java Programming"},{"Faculty-name":"Roshini"},{"credits":"5"}],
+      "P3":[{"Subject-code":"20MTCS050"},{"Subject-name":"Network Security"},{"Faculty-name":"Roshini"},{"credits":"6"}],
+      "P4":[{"Subject-code":"20MTCS051"},{"Subject-name":"DBMS"},{"Faculty-name":"Roshini"},{"credits":"7"}],
+      "P5":[{"Subject-code":"20MTCS052"},{"Subject-name":"OOAD"},{"Faculty-name":"Roshini"},{"credits":"8"}],
+      "P6":[{"Subject-code":"20MTCS053"},{"Subject-name":"Open Source Technology"},{"Faculty-name":"Roshini"},{"credits":"9"}]
+    }
+  },
+ {
+  "batch":2020,
+  "reg":["19RGMTCS","20RGMTCS","21RGMTCS"],
+  "sem1":{
+    "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+    "P2":[{"Subject-code":"20MTCS049"},{"Subject-name":"Java Programming"},{"Faculty-name":"Roshini"},{"credits":"5"}],
+    "P3":[{"Subject-code":"20MTCS050"},{"Subject-name":"Network Security"},{"Faculty-name":"Roshini"},{"credits":"6"}],
+    "P4":[{"Subject-code":"20MTCS051"},{"Subject-name":"DBMS"},{"Faculty-name":"Roshini"},{"credits":"7"}],
+    "P5":[{"Subject-code":"20MTCS052"},{"Subject-name":"OOAD"},{"Faculty-name":"Roshini"},{"credits":"8"}],
+    "P6":[{"Subject-code":"20MTCS053"},{"Subject-name":"Open Source Technology"},{"Faculty-name":"Roshini"},{"credits":"9"}]
+  },
+  "sem2":{
+    "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+    "P2":[{"Subject-code":"20MTCS049"},{"Subject-name":"Java Programming"},{"Faculty-name":"Roshini"},{"credits":"5"}],
+    "P3":[{"Subject-code":"20MTCS050"},{"Subject-name":"Network Security"},{"Faculty-name":"Roshini"},{"credits":"6"}],
+    "P4":[{"Subject-code":"20MTCS051"},{"Subject-name":"DBMS"},{"Faculty-name":"Roshini"},{"credits":"7"}],
+    "P5":[{"Subject-code":"20MTCS052"},{"Subject-name":"OOAD"},{"Faculty-name":"Roshini"},{"credits":"8"}],
+    "P6":[{"Subject-code":"20MTCS053"},{"Subject-name":"Open Source Technology"},{"Faculty-name":"Roshini"},{"credits":"9"}]
+  },
+  "sem3":{
+    "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+    "P2":[{"Subject-code":"20MTCS049"},{"Subject-name":"Java Programming"},{"Faculty-name":"Roshini"},{"credits":"5"}],
+    "P3":[{"Subject-code":"20MTCS050"},{"Subject-name":"Network Security"},{"Faculty-name":"Roshini"},{"credits":"6"}],
+    "P4":[{"Subject-code":"20MTCS051"},{"Subject-name":"DBMS"},{"Faculty-name":"Roshini"},{"credits":"7"}],
+    "P5":[{"Subject-code":"20MTCS052"},{"Subject-name":"OOAD"},{"Faculty-name":"Roshini"},{"credits":"8"}],
+    "P6":[{"Subject-code":"20MTCS053"},{"Subject-name":"Open Source Technology"},{"Faculty-name":"Roshini"},{"credits":"9"}]
+  },
+  "sem4":{
+    "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+    "P2":[{"Subject-code":"20MTCS049"},{"Subject-name":"Java Programming"},{"Faculty-name":"Roshini"},{"credits":"5"}],
+    "P3":[{"Subject-code":"20MTCS050"},{"Subject-name":"Network Security"},{"Faculty-name":"Roshini"},{"credits":"6"}],
+    "P4":[{"Subject-code":"20MTCS051"},{"Subject-name":"DBMS"},{"Faculty-name":"Roshini"},{"credits":"7"}],
+    "P5":[{"Subject-code":"20MTCS052"},{"Subject-name":"OOAD"},{"Faculty-name":"Roshini"},{"credits":"8"}],
+    "P6":[{"Subject-code":"20MTCS053"},{"Subject-name":"Open Source Technology"},{"Faculty-name":"Roshini"},{"credits":"9"}]
+  }
+  },
+ {
+    "batch":2022,
+    "reg":["19RGMTCS","20RGMTCS","21RGMTCS"],
+    "sem1":{
+      "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P2":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P3":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P4":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P5":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P6":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}]
+    },
+    "sem2":{
+      "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P2":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P3":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P4":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P5":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P6":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}]
+    },
+    "sem3":{
+      "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P2":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P3":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P4":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P5":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P6":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}]
+    },
+    "sem4":{
+      "P1":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P2":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P3":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P4":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P5":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}],
+      "P6":[{"Subject-code":"20MTCS048"},{"Subject-name":"Python Programming"},{"Faculty-name":"Roshini"},{"credits":"4"}]
+    }
+  }
+]
