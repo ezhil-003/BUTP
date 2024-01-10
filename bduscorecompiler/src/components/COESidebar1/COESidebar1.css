@@ -1,0 +1,72 @@
+.sidebar1 {
+    display: grid;
+    grid-template-rows: 25%;
+    width: 100px;
+    height: 100vh;
+    background-color: #3e7cb1;
+  }
+  
+  .logo1 {
+    margin-top: 20px;
+    margin-left: 3px;
+    height: 8%;
+    width: 10%;
+    display: grid;
+    grid-template-columns: 10% 1fr 10%;
+  }
+  .logo1 img {
+    height: 60px;
+    margin:11px;
+  }
+  .sidebarlist1 {
+    display: grid;
+    height: 90%;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    margin: 0;
+    justify-content: space-around;
+    margin-top: 6px;
+    align-content: space-around;
+  }
+  .lablelist1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    width: 100%;
+    display: grid;
+  }
+ 
+  .lablelist2 {
+    background-color: #da6f7e;
+    width: 50px;
+    border-radius: 9px;
+    margin-left: 0px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .side_icn_img {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+  .iconimage2 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .side_icn_img img {
+    max-width: 80%;
+    height: auto;
+  }
+  
+
+  .logout-wrap{
+    width:inherit;
+    height: 50%;
+    display:flex;
+    align-items: flex-end;
+    justify-content: space-around;
+  }
+  
