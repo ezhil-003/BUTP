@@ -1,0 +1,104 @@
+
+.content {
+  margin: 0;
+  background-color: white;
+  display: flex;
+  height: 739px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: flex-start;
+  width:97%;
+}
+.maincontent {
+  display: grid;
+  grid-template-rows: 50% 50%;
+  left:300px;
+  width:100%;
+  height:100%;
+  /*width:1350px;
+  height: 739px;*/
+  
+}
+.card1 {
+  background-color: rgb(255, 255, 255);
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 80%;
+  margin-top: 50px;
+  width: inherit;
+  border: 1px solid rgb(40, 39, 39);
+  border-radius: 15px;
+  display: grid;
+  grid-template-rows: 15% 40% 40%;
+  box-shadow: 0 0 10px gray;
+}
+.card1 p {
+  font-size: 30px;
+  margin: 0;
+  font-family: "Noto Sans", sans-serif;
+}
+.card2 {
+  background-color: rgb(255, 255, 255);
+  margin-left: 20px;
+  margin-right: 20px;
+  
+  height: 80%;
+  border: 1px solid rgb(40, 39, 39);
+  border-radius: 15px;
+  display: grid;
+  grid-template-rows: 15% 40% 40%;
+  box-shadow: 0 0 10px gray;
+  width: inherit;
+}
+.card2 p {
+  font-size: 30px;
+  margin: 0;
+  font-family: "Noto Sans", sans-serif;
+}
+.subcardrow {
+  height: 100%;
+
+  margin: 8px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.subcard {
+  display: grid;
+  grid-template-columns: 1fr 20%;
+  margin: 5px;
+  height: 80%;
+
+  border-right: 2px solid black;
+}
+.subcardtitle {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+.count {
+  margin: 2px;
+}
+.batchstyle {
+  font-family: "Noto Sans", sans-serif;
+  display: flex;
+  width: 100%;
+  font-size: 15.5px;
+}
+.clearedstyle {
+  font-family: "Noto Sans", sans-serif;
+  color: rgb(71, 71, 71);
+  display: flex;
+  width: 100%;
+  font-size: 15.5px;
+}
+.arearstyle {
+  font-family: "Noto Sans", sans-serif;
+  color: rgb(71, 71, 71);
+  display: flex;
+  width: 100%;
+  font-size: 15.5px;
+}
+.sub-heading {
+  margin-left: 10px;
+  display: flex;
+  align-items: flex-end;
+}
