@@ -1,0 +1,108 @@
+.Wrapper1 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row !important;
+
+}
+.container {
+  width: 100%;
+  min-height: 600px;
+  height: 100%;
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+.profilebar {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px;
+}
+.profile {
+  height: 100%;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.profileimg {
+  height: 100%;
+}
+.profileimg img {
+  height: 50px;
+  padding-right: 20px;
+}
+.profile span {
+  font-size: 20px;
+  font-weight: 700;
+}
+.dashboard_container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.span1 {
+  font-size: 40px;
+  font-weight: 400;
+  padding-bottom: 1%;
+}
+.current_semester {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  max-height: 100%;
+  padding: 20px;
+}
+.container1 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-height: 100%;
+  padding-bottom: 20px;
+}
+.container1 span {
+  font-size: 25px;
+  font-weight: 400;
+  padding-right: 1%;
+}
+.hr1 {
+  width: 70%;
+}
+.subjects {
+  height: 100%;
+}
+.python_prog {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  height: 50%;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 1px 1px rgb(148 148 148 / 0.5);
+  z-index: -1;
+}
+.python_prog span {
+  font-size: 20px;
+  font-weight: 500;
+}
+.python_prog img {
+  width: 100px;
+  height: 100px;
+}
+
+.subjects a {
+  width:30%;
+  height: 50%;
+  display:block;
+}
