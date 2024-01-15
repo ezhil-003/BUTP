@@ -1,0 +1,166 @@
+.resspace1 {
+  margin: 0;
+  background-color: white;
+  display: flex;
+  height: 100vh;
+  left: 0;
+  width: 100%;
+}
+
+.coe_content_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  columns: 2;
+  width: 90%;
+  height: 90%;
+}
+
+.resultfinder1 {
+  background: white;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 85%;
+  height: 20%;
+  position: absolute;
+  margin-left: 2%;
+  top: 111px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 10px gray;
+}
+
+.resultfinder2 {
+  background: white;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 85%;
+  height: 20%;
+  position: absolute;
+  margin-left: 2%;
+  top: 391px;
+  box-shadow: 0 0 10px gray;
+}
+
+.res_marks_label {
+  margin-left: 2%;
+  margin-top: 1%;
+  width: 25%;
+  height: 7%;
+}
+
+.res_marks_label label {
+  font-size: 25px;
+  font-weight: 200;
+}
+
+.res_input_box1{
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  height: 30%;
+  margin-top: 2%;
+  left: 10px;
+  justify-content: flex-start;
+  align-content: space-around;
+}
+
+.res_input_box2{
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  height: 30%;
+  margin-top: 2%;
+  left: 10px;
+  justify-content: flex-start;
+  align-content: space-around;
+}
+
+.res_input_box1 form{
+  display: flex;
+  flex-direction: row;
+  width: 85%;
+  height: 30%;
+  margin-left: 2%;
+  justify-content: flex-start;
+  align-content: space-around;
+}
+
+.res_box_wrapper {
+  width: 70%;
+  height:max-content;
+}
+
+.res_input_tag {
+  width: 70%;
+  height: 30px;
+  border-color:1px solid #0000;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.res_input_label1 {
+  font-size: 15px;
+  left: 50px;
+  position: relative;
+  letter-spacing: 0.3px;
+}
+
+.res_input_label2 {
+  font-size: 15px;
+  left: 60px;
+  position: relative;
+  letter-spacing: 0.3px;
+}
+
+.res_input_label3 {
+  font-size: 15px;
+  left: 75px;
+  position: relative;
+  letter-spacing: 0.3px;
+}
+
+.res_input_label4 {
+  font-size: 15px;
+  position: relative;
+  letter-spacing: 0.3px;
+  bottom:0;
+  
+}
+
+.res_input_label5 {
+  font-size: 15px;
+  left: 90px;
+  position: relative;
+  letter-spacing: 0.3px;
+}
+
+.res_box{
+  width: 90%;
+  height: 20%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  
+}
+.res_btn {
+  width:80px;
+  height: 35px;
+  border-radius: 6px;
+  border: none;
+  color: #ffff;
+  background-color: #3E7CB1;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+
+.res_box_wrapper option{
+  font-size: 18px;
+  box-shadow: 0 1px #000000;
+  font-family: Noto Sans, sans-serif;
+}
+
