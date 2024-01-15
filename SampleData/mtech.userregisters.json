@@ -1,0 +1,16 @@
+[{
+  "_id": "20MTCS07",
+  "email": "srezhilsivaraj@gmail.com ",
+  "name": "Ezhil Sivaraj",
+  "password": "1234",
+  "batch": 2020,
+  "programme": "M.Tech"
+},
+{
+  "_id": "20MTCS01",
+  "email": "howeverlover3@gmail.com",
+  "name": "Love everything ❤ ",
+  "password": "098",
+  "batch": 2022,
+  "programme": "M.TECH"
+}]
